@@ -1,0 +1,17 @@
+Ejercicios 4
+A grocery store wants to know its customers better in order to create personalized marketing
+campaigns. You are asked to develop a classification model using Keras that takes into account
+customers' shopping frequency, their spending habits and the maximum amount they spend in the
+store. The goal of the model is to classify customers into three categories: low, medium and high
+value.
+Attached training data in a file named data_customer_classification
+
+Traduccion:
+Ejercicios 4
+Una tienda de alimentación quiere conocer mejor a sus clientes para poder crear un marketing personalizado
+campañas. Se le pide que desarrolle un modelo de clasificación utilizando Keras que tenga en cuenta
+la frecuencia de compra de los clientes, sus hábitos de gasto y la cantidad máxima que gastan en el
+almacenar. El objetivo del modelo es clasificar a los clientes en tres categorías: bajo, medio y alto.
+valor.
+Datos de entrenamiento adjuntos en un archivo llamado data_customer_classification
+

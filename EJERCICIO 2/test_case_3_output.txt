@@ -1,0 +1,23 @@
+F
+======================================================================
+FAIL: test_calculo_campeon (__main__.TestCase3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test_case_3.py", line 11, in test_calculo_campeon
+    self.assertEqual(calcular_campeon(resultados, sistema), esperado, mensaje_error)
+AssertionError: Lists differ: [1, 2] != [4]
+First differing element 0:
+1
+4
+First list contains 1 additional elements.
+First extra element 1:
+2
+- [1, 2]
++ [4] : Error en el caso de prueba: [[3, 3, 2, 1]], [1, 2, 3, 3]
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+FAILED (failures=1)
+
+
+** Process exited - Return Code: 1 **
+Press Enter to exit terminal

@@ -1,0 +1,15 @@
+F
+======================================================================
+FAIL: test_frase_con_espacios (__main__.TestPrueba3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test_prueba3.py", line 7, in test_frase_con_espacios
+    self.assertTrue(resultado)
+AssertionError: False is not true
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+FAILED (failures=1)
+
+
+** Process exited - Return Code: 1 **
+Press Enter to exit terminal
